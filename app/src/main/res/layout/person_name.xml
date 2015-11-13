@@ -13,6 +13,7 @@
         android:layout_height="50dp"
         card_view:cardCornerRadius="4dp">
 
+
         <TextView
             android:id="@+id/tvName"
             android:layout_width="match_parent"
