@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Swipe_To_Refresh_View</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="person_names">
+        <item>Jakir</item>
+        <item>Romana</item>
+        <item>Faria</item>
+        <item>Rony</item>
+        <item>Saddam</item>
+        <item>Shovo</item>
+        <item>Jahir</item>
+        <item>Mehedi</item>
+        <item>Chaitali</item>
+        <item>Farjana</item>
+    </string-array>
+</resources>
